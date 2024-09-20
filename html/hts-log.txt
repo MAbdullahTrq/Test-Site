@@ -1,0 +1,376 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Sep 2024 19:54:15 at https://www.pakistantravelblog.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.pakistantravelblog.com/ -O1 "C:\My Web Sites\sdswd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:54:17	Warning: 	Note: due to https://www.pakistantravelblog.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+19:56:17	Warning: 	Unexpected socket error during pre-loop
+19:56:17	Warning: 	Unexpected socket error during pre-loop
+19:56:32	Warning: 	Unexpected socket error during pre-loop
+19:56:46	Error: 	"Method Not Allowed" (405) at link https://www.pakistantravelblog.com/xmlrpc.php (from https://www.pakistantravelblog.com/)
+19:57:07	Warning: 	Retry after error -4 (Connect Error) at link https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=1.3.3 (from https://www.pakistantravelblog.com/)
+19:57:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.pakistantravelblog.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.pakistantravelblog.com%2F (from https://www.pakistantravelblog.com/)
+19:57:18	Warning: 	Retry after error -4 (Connect Error) at link pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://www.pakistantravelblog.com/)
+19:57:19	Warning: 	Retry after error -4 (Connect Error) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.pakistantravelblog.com/)
+19:57:19	Error: 	"Not Found" (404) at link https://www.pakistantravelblog.com/tag/destinations/ (from https://www.pakistantravelblog.com/)
+20:02:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.pakistantravelblog.com/10-notable-places-to-eat-local-food-in-lahore/ (from https://www.pakistantravelblog.com/)
+20:02:14	Warning: 	Retry after error -4 (Receive Error) at link https://www.pakistantravelblog.com/author/saadyousaf/ (from https://www.pakistantravelblog.com/)
+20:02:15	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/11-popular-street-food-places-in-lahore/ (from https://www.pakistantravelblog.com/)
+20:02:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/33.-Haleem-from-Kozi-Haleem-Regal-Chowk-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:19	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/top-10-traditional-food-of-hunza-valley/ (from https://www.pakistantravelblog.com/)
+20:02:19	Warning: 	Retry after error -4 (Receive Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/1-goli-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:20	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/7-places-to-eat-the-best-nihari-in-lahore/ (from https://www.pakistantravelblog.com/)
+20:02:20	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/monal-lahore-nihari-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:22	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/top-10-places-to-eat-in-islamabad/ (from https://www.pakistantravelblog.com/)
+20:02:22	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/places-to-eat-in-islamabad-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:23	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/author/aligilani/ (from https://www.pakistantravelblog.com/)
+20:02:24	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/top-10-must-try-peshawari-food/ (from https://www.pakistantravelblog.com/)
+20:02:25	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/04/3-chapli-kabab-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:26	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/13-most-delicious-balochistan-food-in-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:26	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/balochistan-food-title-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:26	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/10-famous-places-to-eat-sweets-in-lahore/ (from https://www.pakistantravelblog.com/)
+20:02:26	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/22.-Rabri-from-Yousaf-Falooda-Purani-Anarkali-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:27	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/16-most-popular-foods-to-eat-in-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:28	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/8-pakistan-food-biryani-chicken-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:29	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/11-best-street-food-in-karachi-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:29	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/chaat-and-gol-gappay-300x250.jpg (from https://www.pakistantravelblog.com/)
+20:02:30	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/author/maryammanzoor/ (from https://www.pakistantravelblog.com/)
+20:02:30	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/how-to-obtain-a-trekking-permit-in-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:31	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/trekking-permit-360x240.jpg (from https://www.pakistantravelblog.com/)
+20:02:32	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/how-to-charter-helicopter-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:33	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/60237_435365456521603_1587510978_n-80x60.jpg (from https://www.pakistantravelblog.com/)
+20:02:33	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/top-7-vaccinations-required-for-travel-to-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:35	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2017/06/vaccinations-80x60.jpg (from https://www.pakistantravelblog.com/)
+20:02:36	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/list-of-restricted-treks-that-require-trekking-permit/ (from https://www.pakistantravelblog.com/)
+20:02:38	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/permit-required-80x60.jpg (from https://www.pakistantravelblog.com/)
+20:02:38	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/climbing-rules-regulations-of-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:40	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/mountaineering-rules-80x60.jpg (from https://www.pakistantravelblog.com/)
+20:02:41	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/list-of-restricted-areas-in-pakistan/ (from https://www.pakistantravelblog.com/)
+20:02:43	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/restricted-areas-of-pakistan-80x60.png (from https://www.pakistantravelblog.com/)
+20:02:44	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/worlds-2nd-highest-plateau-deosai-national-park/ (from https://www.pakistantravelblog.com/)
+20:02:46	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/photographer_of_worlds_101339325_596411301289404_4082144345295678995_n-360x240.jpg (from https://www.pakistantravelblog.com/)
+20:02:46	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/trip-report-a-day-trip-to-wagah-border-lahore/ (from https://www.pakistantravelblog.com/)
+20:02:46	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/wagah-border-pakistan-lahore-2-80x60.jpg (from https://www.pakistantravelblog.com/)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/trip-report-sadhbelo-in-sukkur/ (from https://www.pakistantravelblog.com/)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/a-view-of-temple-80x60.jpg (from https://www.pakistantravelblog.com/)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/trip-report-sightseeing-in-tharparkar/ (from https://www.pakistantravelblog.com/)
+20:02:52	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/06/bodhesar-hindu-temple-80x60.jpeg (from https://www.pakistantravelblog.com/)
+20:02:52	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/products/pakistan-mountains/ (from https://www.pakistantravelblog.com/)
+20:02:54	Warning: 	Retry after error -4 (Connect Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/07/tallest-mountains-of-pakistan2-2-300x300.jpg (from https://www.pakistantravelblog.com/)
+20:03:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.pakistantravelblog.com/products/karakoram-national-park/ (from https://www.pakistantravelblog.com/)
+20:03:04	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/07/cknp-300x300.jpg (from https://www.pakistantravelblog.com/)
+20:03:08	Warning: 	Retry after error -4 (Receive Error) at link https://www.pakistantravelblog.com/wp-content/uploads/2020/07/broad-peak-300x300.jpg (from https://www.pakistantravelblog.com/)
+20:04:01	Error: 	"Not Found" (404) at link www.pakistantravelblog.com/wp-content/themes/valenti/plugins/login-with-ajax/loading.gif (from www.pakistantravelblog.com/wp-content/cache/wpfc-minified/8yg86rma/huk44.css)
+20:04:01	Warning: 	Note: due to www.pakistantravelblog.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+20:04:02	Warning: 	Retry after error -4 (Connect Error) at link https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=1.3.3 (from https://www.pakistantravelblog.com/)
+20:04:02	Warning: 	Retry after error -4 (Connect Error) at link pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://www.pakistantravelblog.com/)
+20:04:02	Warning: 	Retry after error -4 (Connect Error) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.pakistantravelblog.com/)
+20:07:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2572
+20:07:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2572 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-islamabad/
+20:07:27	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2920
+20:07:27	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2920 to https://www.pakistantravelblog.com/things-to-do-in-lahore/
+20:07:27	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2634
+20:07:27	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2634 to https://www.pakistantravelblog.com/k2-base-camp-trek/
+20:07:28	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2831
+20:07:28	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2831 to https://www.pakistantravelblog.com/things-to-do-in-new-york/
+20:07:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=579
+20:07:41	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=579 to https://www.pakistantravelblog.com/cart/
+20:07:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=55
+20:07:41	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=55 to https://www.pakistantravelblog.com/contact/
+20:07:43	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2053
+20:07:43	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2053 to https://www.pakistantravelblog.com/guestpost/
+20:07:45	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2065
+20:07:45	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2065 to https://www.pakistantravelblog.com/review-request/
+20:07:45	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2068
+20:07:45	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2068 to https://www.pakistantravelblog.com/invite/
+20:07:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2072
+20:07:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2072 to https://www.pakistantravelblog.com/collaborate/
+20:07:52	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2075
+20:07:52	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2075 to https://www.pakistantravelblog.com/store-contact/
+20:07:52	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1980
+20:07:52	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1980 to https://www.pakistantravelblog.com/about/
+20:07:52	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2099
+20:07:52	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2099 to https://www.pakistantravelblog.com/team/
+20:07:52	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1032
+20:07:52	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1032 to https://www.pakistantravelblog.com/tips-for-high-altitude-trekking-in-pakistan/
+20:07:53	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1803
+20:07:53	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1803 to https://www.pakistantravelblog.com/24-requests-to-international-travelers-pakistani-tourists/
+20:07:54	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1270
+20:07:54	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1270 to https://www.pakistantravelblog.com/tips-for-trekking-to-k2-base-camp/
+20:07:59	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1142
+20:07:59	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1142 to https://www.pakistantravelblog.com/20-helpful-urdu-phrases-for-travel-in-pakistan/
+20:08:07	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1132
+20:08:07	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1132 to https://www.pakistantravelblog.com/the-6-best-backpacking-spots-in-pakistan/
+20:08:28	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2301
+20:08:28	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2301 to https://www.pakistantravelblog.com/k2-winter-expedition/
+20:08:28	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1610
+20:08:28	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1610 to https://www.pakistantravelblog.com/30000-historic-rock-carvings-to-sink-in-basha-dam/
+20:08:31	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=984
+20:08:31	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=984 to https://www.pakistantravelblog.com/things-to-know-about-altitude-sickness-ams-in-pakistans-mountains/
+20:08:36	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=979
+20:08:36	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=979 to https://www.pakistantravelblog.com/top-6-hospitals-in-islamabad-for-travelers/
+20:08:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1180
+20:08:41	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1180 to https://www.pakistantravelblog.com/trip-report-losing-ourselves-in-hunzas-passu-village/
+20:08:42	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1275
+20:08:42	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1275 to https://www.pakistantravelblog.com/machulo-la-trek-trip-report/
+20:08:44	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1268
+20:08:44	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1268 to https://www.pakistantravelblog.com/trip-report-karachi-pakistan/
+20:08:45	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1263
+20:08:45	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1263 to https://www.pakistantravelblog.com/trip-report-necropolis-of-chitorri-in-sindh/
+20:08:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1081
+20:08:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1081 to https://www.pakistantravelblog.com/tips-for-clothing-in-pakistan/
+20:08:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=870
+20:08:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=870 to https://www.pakistantravelblog.com/is-pakistan-safe-to-visit-and-travel/
+20:08:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=879
+20:08:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=879 to https://www.pakistantravelblog.com/is-pakistan-safe-for-solo-female-travelers/
+20:08:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=732
+20:08:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=732 to https://www.pakistantravelblog.com/9-most-famous-sweets-of-pakistan/
+20:10:13	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1852
+20:10:13	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1852 to https://www.pakistantravelblog.com/products/t-shirt-cities-of-pakistan/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1883
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1883 to https://www.pakistantravelblog.com/products/broad-peak/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1889
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1889 to https://www.pakistantravelblog.com/products/nanga-parbat-man/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2792
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2792 to https://www.pakistantravelblog.com/itinerary-for-new-york/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2147
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2147 to https://www.pakistantravelblog.com/hazara-motorway/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1838
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1838 to https://www.pakistantravelblog.com/how-to-spend-2-days-in-karachi/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1467
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1467 to https://www.pakistantravelblog.com/how-to-spend-two-weeks-in-pakistan/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1403
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1403 to https://www.pakistantravelblog.com/top-6-tourist-attractions-near-islamabad/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=680
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=680 to https://www.pakistantravelblog.com/cookie-policy/
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=3
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=3 to https://www.pakistantravelblog.com/privacy-policy/
+20:10:18	Error: 	"Connect Error" (-4) after 2 retries at link https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=1.3.3 (from https://www.pakistantravelblog.com/)
+20:10:18	Error: 	"Connect Error" (-4) after 2 retries at link pagead2.googlesyndication.com/pagead/js/adsbygoogle.js (from https://www.pakistantravelblog.com/)
+20:10:18	Error: 	"Connect Error" (-4) after 2 retries at link https://www.googletagmanager.com/gtm.js?id= (from https://www.pakistantravelblog.com/)
+20:10:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/gilgit-baltistan/page/1/
+20:10:18	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/gilgit-baltistan/page/1/ to https://www.pakistantravelblog.com/tag/gilgit-baltistan/
+20:10:19	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=991
+20:10:19	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=991 to https://www.pakistantravelblog.com/30-must-have-gears-for-trekking-in-pakistan/
+20:10:19	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2614
+20:10:19	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2614 to https://www.pakistantravelblog.com/tourist-guides-in-pakistan/
+20:10:19	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1196
+20:10:19	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1196 to https://www.pakistantravelblog.com/trip-report-hunza-valleys-ghulkin-glaciers/
+20:10:19	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1189
+20:10:19	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1189 to https://www.pakistantravelblog.com/how-shimshal-women-are-conquering-pakistans-epic-mountains/
+20:10:19	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=998
+20:10:19	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=998 to https://www.pakistantravelblog.com/how-to-obtain-a-climbing-permit-in-pakistan/
+20:10:20	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1370
+20:10:20	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1370 to https://www.pakistantravelblog.com/review-wild-thyme-hunza-food-in-islamabad/
+20:10:23	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1390
+20:10:23	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1390 to https://www.pakistantravelblog.com/the-7-most-beautiful-villages-of-pakistan/
+20:10:23	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1829
+20:10:23	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1829 to https://www.pakistantravelblog.com/pakistan-visa-from-usa/
+20:10:23	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/how-to-apply-for-pakistan-tourist-visa-online/
+20:10:23	Warning: 	File has moved from https://www.pakistantravelblog.com/how-to-apply-for-pakistan-tourist-visa-online/ to https://www.pakistantravelblog.com/pakistan-visa-online/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1893
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1893 to https://www.pakistantravelblog.com/products/nanga-parbat-a/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1886
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1886 to https://www.pakistantravelblog.com/products/gasherbrum/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1875
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1875 to https://www.pakistantravelblog.com/products/k2/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2580
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2580 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-lahore-punjab/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=981
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=981 to https://www.pakistantravelblog.com/top-10-emergency-hospitals-in-pakistan-for-travelers/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=994
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=994 to https://www.pakistantravelblog.com/trekking-rules-and-regulations-of-pakistan/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2578
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2578 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-khyber-pakhtunkhwa-kpk/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1231
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1231 to https://www.pakistantravelblog.com/trip-report-roaming-in-lahore/
+20:10:39	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2621
+20:10:39	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2621 to https://www.pakistantravelblog.com/licensed-tour-operators-travel-agents-in-pakistan/
+20:10:40	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/sindh/page/1/
+20:10:40	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/sindh/page/1/ to https://www.pakistantravelblog.com/tag/sindh/
+20:10:40	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1164
+20:10:40	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1164 to https://www.pakistantravelblog.com/9-places-for-a-unique-night-out-in-karachi/
+20:10:40	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2583
+20:10:40	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2583 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-karachi-sindh/
+20:10:40	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2562
+20:10:40	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2562 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-balochistan/
+20:10:40	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=708
+20:10:40	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=708 to https://www.pakistantravelblog.com/12-best-pakistan-travel-guide-books-of-all-time/
+20:10:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/category/travel-tips/page/1/
+20:10:41	Warning: 	File has moved from https://www.pakistantravelblog.com/category/travel-tips/page/1/ to https://www.pakistantravelblog.com/category/travel-tips/
+20:10:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1074
+20:10:41	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1074 to https://www.pakistantravelblog.com/clothing-tips-for-women-trekking-in-pakistan/
+20:10:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1048
+20:10:41	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1048 to https://www.pakistantravelblog.com/tips-for-acclimatization-medications-for-trekking/
+20:10:41	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1030
+20:10:41	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1030 to https://www.pakistantravelblog.com/tips-for-communication-in-pakistans-mountains/
+20:10:46	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=987
+20:10:46	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=987 to https://www.pakistantravelblog.com/when-should-allergy-patients-not-travel-to-islamabad/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=688
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=688 to https://www.pakistantravelblog.com/10-top-pakistani-books-that-are-acclaimed-across-the-world/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=880
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=880 to https://www.pakistantravelblog.com/top-12-tips-for-solo-female-travelers/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/category/travel-guide/page/1/
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/category/travel-guide/page/1/ to https://www.pakistantravelblog.com/category/travel-guide/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/category/food-guide/page/1/
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/category/food-guide/page/1/ to https://www.pakistantravelblog.com/category/food-guide/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1665
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1665 to https://www.pakistantravelblog.com/pakistan-visa-online/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1616
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1616 to https://www.pakistantravelblog.com/how-to-start-a-visa-application-at-any-pakistan-embassy-or-consulate/
+20:10:47	Error: 	"Not Found" (404) at link https://www.pakistantravelblog.com/2020/06/28/list-of-pakistans-embassies-and-consulates-abroad/ (from https://www.pakistantravelblog.com/how-to-start-a-visa-application-at-any-pakistan-embassy-or-consulate/)
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1599
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1599 to https://www.pakistantravelblog.com/list-of-pakistans-embassies-and-consulates-abroad/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1535
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1535 to https://www.pakistantravelblog.com/list-of-eligible-countries-for-pakistans-online-e-visa/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1532
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1532 to https://www.pakistantravelblog.com/list-of-eligible-countries-for-pakistans-visa-on-arrival/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1746
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1746 to https://www.pakistantravelblog.com/pakistan-visa-on-arrival/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1479
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1479 to https://www.pakistantravelblog.com/pakistan-tourist-visa/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1463
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1463 to https://www.pakistantravelblog.com/how-to-get-australia-visit-tourist-visa-from-pakistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1459
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1459 to https://www.pakistantravelblog.com/how-to-get-dubai-visit-tourist-visa-from-pakistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1453
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1453 to https://www.pakistantravelblog.com/how-to-get-uk-visit-tourist-visa-from-pakistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1445
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1445 to https://www.pakistantravelblog.com/how-to-get-us-visit-tourist-visa-from-pakistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1430
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1430 to https://www.pakistantravelblog.com/how-to-canada-visit-tourist-visa-from-pakistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2565
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2565 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-gilgit-baltistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1110
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1110 to https://www.pakistantravelblog.com/10-things-to-know-before-visiting-pakistan/
+20:10:47	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1559
+20:10:47	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1559 to https://www.pakistantravelblog.com/list-of-peaks-for-climbing-in-pakistan/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/category/trip-reports/page/1/
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/category/trip-reports/page/1/ to https://www.pakistantravelblog.com/category/trip-reports/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/category/food-reviews/page/1/
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/category/food-reviews/page/1/ to https://www.pakistantravelblog.com/category/food-reviews/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1100
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1100 to https://www.pakistantravelblog.com/12-things-to-know-about-pakistani-culture/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1355
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1355 to https://www.pakistantravelblog.com/1355/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1344
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1344 to https://www.pakistantravelblog.com/review-deals-from-ranchers-islamabad/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1336
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1336 to https://www.pakistantravelblog.com/review-food-by-wokstoppakistan-islamabad/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1327
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1327 to https://www.pakistantravelblog.com/review-food-by-taus-islamabad/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1340
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1340 to https://www.pakistantravelblog.com/review-sobat-painda-islamabad/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1319
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1319 to https://www.pakistantravelblog.com/review-hot-peri-peri-chicken-francos/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1311
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1311 to https://www.pakistantravelblog.com/yemeni-food-in-islamabad-the-yemeni-shawarma/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1348
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1348 to https://www.pakistantravelblog.com/review-food-by-pan-and-grill-dha-islambad/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1359
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1359 to https://www.pakistantravelblog.com/review-harrys-alfredo-pasta-islamabad/
+20:10:48	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1121
+20:10:48	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1121 to https://www.pakistantravelblog.com/top-10-museums-in-karachi-pakistan/
+20:10:49	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1872
+20:10:49	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1872 to https://www.pakistantravelblog.com/products/karakoram-range/
+20:10:49	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1867
+20:10:49	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1867 to https://www.pakistantravelblog.com/products/mountain-ranges/
+20:10:54	Error: 	"Not Found" (404) at link https://www.pakistantravelblog.com/wp-content/themes/valenti/library/images/loading.gif (from https://www.pakistantravelblog.com/wp-content/themes/valenti/library/css/style.min.css?ver=5.5.4)
+20:10:55	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2544
+20:10:55	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2544 to https://www.pakistantravelblog.com/list-of-tour-travel-companies-in-pakistan/
+20:10:55	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1151
+20:10:55	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1151 to https://www.pakistantravelblog.com/the-10-most-historical-landmarks-to-see-in-pakistan/
+20:10:55	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1090
+20:10:55	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1090 to https://www.pakistantravelblog.com/pakistans-top-5-airlines/
+20:11:00	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1022
+20:11:00	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1022 to https://www.pakistantravelblog.com/top-5-international-wildlife-organizations-in-pakistan/
+20:11:02	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/author/admin/page/1/
+20:11:02	Warning: 	File has moved from https://www.pakistantravelblog.com/author/admin/page/1/ to https://www.pakistantravelblog.com/author/admin/
+20:11:02	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=2710
+20:11:02	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=2710 to https://www.pakistantravelblog.com/climbing-routes-on-nanga-parbat/
+20:11:02	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1363
+20:11:02	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1363 to https://www.pakistantravelblog.com/review-bbq-bazaar-islamabad/
+20:11:03	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/author/arsalankarim/page/1/
+20:11:03	Warning: 	File has moved from https://www.pakistantravelblog.com/author/arsalankarim/page/1/ to https://www.pakistantravelblog.com/author/arsalankarim/
+20:11:09	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=809
+20:11:09	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=809 to https://www.pakistantravelblog.com/10-notable-places-to-eat-local-food-in-lahore/
+20:11:09	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=810
+20:11:09	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=810 to https://www.pakistantravelblog.com/11-popular-street-food-places-in-lahore/
+20:11:09	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=795
+20:11:09	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=795 to https://www.pakistantravelblog.com/top-10-traditional-food-of-hunza-valley/
+20:11:09	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=848
+20:11:09	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=848 to https://www.pakistantravelblog.com/7-places-to-eat-the-best-nihari-in-lahore/
+20:11:09	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=777
+20:11:09	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=777 to https://www.pakistantravelblog.com/top-10-places-to-eat-in-islamabad/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=656
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=656 to https://www.pakistantravelblog.com/top-10-must-try-peshawari-food/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=759
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=759 to https://www.pakistantravelblog.com/13-most-delicious-balochistan-food-in-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=808
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=808 to https://www.pakistantravelblog.com/10-famous-places-to-eat-sweets-in-lahore/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=731
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=731 to https://www.pakistantravelblog.com/16-most-popular-foods-to-eat-in-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=857
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=857 to https://www.pakistantravelblog.com/11-best-street-food-in-karachi-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=997
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=997 to https://www.pakistantravelblog.com/how-to-obtain-a-trekking-permit-in-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1060
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1060 to https://www.pakistantravelblog.com/how-to-charter-helicopter-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=972
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=972 to https://www.pakistantravelblog.com/top-7-vaccinations-required-for-travel-to-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1562
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1562 to https://www.pakistantravelblog.com/list-of-restricted-treks-that-require-trekking-permit/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1014
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1014 to https://www.pakistantravelblog.com/climbing-rules-regulations-of-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1509
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1509 to https://www.pakistantravelblog.com/list-of-restricted-areas-in-pakistan/
+20:11:10	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1203
+20:11:10	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1203 to https://www.pakistantravelblog.com/worlds-2nd-highest-plateau-deosai-national-park/
+20:11:11	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1216
+20:11:11	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1216 to https://www.pakistantravelblog.com/trip-report-a-day-trip-to-wagah-border-lahore/
+20:11:16	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1259
+20:11:16	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1259 to https://www.pakistantravelblog.com/trip-report-sadhbelo-in-sukkur/
+20:11:18	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1249
+20:11:18	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1249 to https://www.pakistantravelblog.com/trip-report-sightseeing-in-tharparkar/
+20:11:23	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1858
+20:11:23	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1858 to https://www.pakistantravelblog.com/products/pakistan-mountains/
+20:11:23	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1863
+20:11:23	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1863 to https://www.pakistantravelblog.com/products/karakoram-national-park/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1789
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1789 to https://www.pakistantravelblog.com/pakistan-visa-from-canada/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1832
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1832 to https://www.pakistantravelblog.com/pakistan-visa-from-uk/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1834
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1834 to https://www.pakistantravelblog.com/pakistan-visa/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1785
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1785 to https://www.pakistantravelblog.com/pakistan-visit-visa/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1779
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1779 to https://www.pakistantravelblog.com/pakistan-e-visa/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1769
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1769 to https://www.pakistantravelblog.com/pakistan-visa-on-arrival-for-uk-citizens/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1767
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1767 to https://www.pakistantravelblog.com/how-to-start-pakistan-visa-application-online-a-complete-guide/
+20:11:24	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=1748
+20:11:24	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=1748 to https://www.pakistantravelblog.com/pakistan-visa-on-arrival-for-us-citizens/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/?p=581
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/?p=581 to https://www.pakistantravelblog.com/my-account/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/islamabad/page/1/
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/islamabad/page/1/ to https://www.pakistantravelblog.com/tag/islamabad/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/trekking/page/1/
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/trekking/page/1/ to https://www.pakistantravelblog.com/tag/trekking/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/tours-and-sightseeing/page/1/
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/tours-and-sightseeing/page/1/ to https://www.pakistantravelblog.com/tag/tours-and-sightseeing/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/cultural-tours/page/1/
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/cultural-tours/page/1/ to https://www.pakistantravelblog.com/tag/cultural-tours/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/tag/culinary-tours/page/1/
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/tag/culinary-tours/page/1/ to https://www.pakistantravelblog.com/tag/culinary-tours/
+20:11:25	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/author/aligilani/page/1/
+20:11:25	Warning: 	File has moved from https://www.pakistantravelblog.com/author/aligilani/page/1/ to https://www.pakistantravelblog.com/author/aligilani/
+20:11:26	Warning: 	Moved Permanently for https://www.pakistantravelblog.com/category/reviews/food-reviews/page/1/
+20:11:26	Warning: 	File has moved from https://www.pakistantravelblog.com/category/reviews/food-reviews/page/1/ to https://www.pakistantravelblog.com/category/reviews/food-reviews/
+
+HTTrack Website Copier/3.49-2 mirror complete in 17 minutes 11 seconds : 2119 links scanned, 1906 files written (202427730 bytes overall) [176490053 bytes received at 171183 bytes/sec], 35870343 bytes transferred using HTTP compression in 267 files, ratio 24%, 8.8 requests per connection
+(8 errors, 357 warnings, 0 messages)
